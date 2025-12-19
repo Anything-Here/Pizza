@@ -1,0 +1,28 @@
+body{
+    color: white;
+    background-color: rgb(10, 10, 10);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#titleH1{
+    text-align: center;
+}
+
+#divButton{
+    text-align: center;
+}
+
+#infoH2{
+    text-align: center;
+}
+
+button{
+    border-radius: 5px;
+    border-color: transparent;
+    background-color: rgb(30, 30, 30);
+    color: rgb(255, 255, 255);
+}
+
+#imgDIV{
+    text-align: center;
+}
